@@ -22,7 +22,7 @@ DevConn is an open-source platform where developers connect to collaborate, ment
 - Add your `.env` variables
 
 ## 📢 Build in Public
-Follow along: [@X]([https://twitter.com/yourTwitter](https://x.com/rahulstha353))  
+Follow along: [@yourTwitter](https://x.com/rahulstha353)
 Updates tagged with `#BuildInPublic #DevConn`
 
 ## 🤝 Contributing
